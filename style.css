@@ -56,6 +56,7 @@
     padding: 1.5rem 2rem;
     font-size: 3rem;
     border-radius: 15px;
+    letter-spacing: 3px;
 }
 
 .title > p{
@@ -95,4 +96,35 @@
 
 .projects > img{
     width: 100%;
+}
+
+.aboutContainer{
+    margin-top: 8rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.about{
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    gap: 1.5rem;
+    width: 55rem;
+}
+
+.about > h3 {
+    position: relative; 
+    padding: 0 0 0.6rem 0;
+}
+
+.about > h3::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 2.5rem; 
+    height: 3px; 
+    background-color: #000000;
+    border-radius: 2px; 
+    margin-top: 10px;
 }
