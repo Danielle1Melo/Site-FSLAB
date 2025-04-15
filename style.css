@@ -128,3 +128,10 @@
     border-radius: 2px; 
     margin-top: 10px;
 }
+
+.footer{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #575756;
+    padding: 1.5rem 5rem;
+}
