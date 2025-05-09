@@ -1,21 +1,21 @@
-# 🌐 Site FSLAB
+# 🌐 Website FSLab
 
-Este repositório contém um **exercício desenvolvido para a disciplina de Front-End**, com o objetivo de criar um site institucional simples utilizando HTML e CSS.
+This repository contains an **exercise developed for the Front-End discipline**, with the objective of creating a simple institutional website using HTML and CSS.
 
-## 💻 Tecnologias Utilizadas
+## 💻 Technologies Used
   * HTML
   * CSS
 
-## 🚀 Como Executar
+## 🚀 Installation
 
-1. Clone o repositório:
+1. Clone the repository:
    
    ```bash
    git clone https://github.com/Danielle1Melo/Site-FSLAB.git
 
-2. Entre no diretório do projeto:
+2. Navigate to the directory:
    
      ```bash
     cd Site-FSLAB
 
-3. Abra o arquivo `index.html` no navegador (use o Live Server no VS Code).
+3. Open the `index.html` file in the browser (use Live Server in VS Code).
